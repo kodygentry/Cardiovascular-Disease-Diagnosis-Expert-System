@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1632707631 source:c:\users\education\documents\school\2021-22\fall 21\cs ai\projects\aicardiovascular\project1\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<unordered_map>
+	<stack>
+	<algorithm>
+	<utility>
+	"forward_chaining.h"
+
+1632707242 c:\users\education\documents\school\2021-22\fall 21\cs ai\projects\aicardiovascular\project1\forward_chaining.h
+	<iostream>
+	<string>
+	<queue>
+	<utility>
+	<unordered_map>
+
+1632707985 source:c:\users\education\documents\school\2021-22\fall 21\cs ai\projects\aicardiovascular\project1\forward_chaining.cpp
+	<string>
+	"forward_chaining.h"
+
